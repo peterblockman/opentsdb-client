@@ -30,7 +30,7 @@
     "client"
   ],
   "dependencies": {
-    "opentsdb-url": "github:vietvu-nguyen/opentsdb-url",
+    "opentsdb-url": "github:peterblockman/opentsdb-url",
     "opentsdb-validate-time": "0.0.1",
     "request": "^2.45.0"
   },
